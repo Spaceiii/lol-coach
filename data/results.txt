@@ -1,0 +1,91 @@
+Bonjour l'équipe ! En tant que votre coach, je suis là pour vous guider à travers cette phase de draft cruciale. Analysons les données pour trouver les meilleurs champions JUNGLE pour notre composition avec **Yasuo** et **Lulu** face à **Teemo** et **Sylas**.
+
+Notre objectif est de maximiser les synergies avec nos alliés (notamment les knock-ups pour Yasuo et les buffs pour Lulu) tout en contrant efficacement les picks ennemis.
+
+Voici mes 5 recommandations :
+
+---
+
+### 1. 🛡️ Pantheon (ID: 80)
+
+*   **Statistiques Clés :**
+    *   WinRate Global: 50.15% (Légèrement positif)
+    *   KDA Moyen: 7.13/6.05/7.73 (Bon KDA avec de bonnes assistances)
+
+*   **Pourquoi le choisir ?**
+    *   **Matchups Favorables :** Pantheon excelle contre Sylas. Dans les données, il a un excellent taux de victoire (3 victoires, 0 défaite) avec des différences d'or et de dégâts très positives. Son burst et son contrôle (stun) sont parfaits pour ganker Sylas et l'empêcher de snowball. Contre Teemo, il a également une victoire, montrant sa capacité à gérer les cibles squishies.
+    *   **Synergie avec Yasuo :** Le "Bouclier Zénithal" (W) de Pantheon est un stun ciblé qui permet à Yasuo d'enchaîner son ultime (Last Breath) très facilement. C'est une synergie "pick-and-play" extrêmement forte.
+    *   **Synergie avec Lulu :** Lulu peut le buff (vitesse d'attaque, bouclier, PV) pour qu'il puisse plonger plus agressivement et survivre aux trades, augmentant son impact en milieu de partie.
+    *   **Forces :** Excellent early-game, capacité à snowball, présence globale avec son ultime (Grand Ciel) pour soutenir les autres lanes.
+
+*   **Conseils Stratégiques :** Abusez de son early-game pour mettre la pression sur Sylas et Teemo. Priorisez les ganks sur les lanes où Yasuo peut follow-up. Utilisez votre ultime pour des rotations rapides et des engagements sur des cibles isolées.
+
+---
+
+### 2. 🗡️ Talon (ID: 91)
+
+*   **Statistiques Clés :**
+    *   WinRate Global: 51.3% (Très bon)
+    *   KDA Moyen: 8.68/5.72/6.53 (Excellent KDA, très orienté kills)
+
+*   **Pourquoi le choisir ?**
+    *   **Matchups Favorables :** Talon est une excellente réponse à Sylas, affichant un taux de victoire impressionnant (4 victoires, 1 défaite) avec des différences d'or et de dégâts très élevées dans les matchs. Son burst est idéal pour éliminer Sylas avant qu'il ne puisse réagir. Contre Teemo, sa capacité à traverser les murs et à burst le rend très dangereux.
+    *   **Synergie avec Lulu :** Lulu peut le booster avec ses buffs (Pix à l'Aide, Fantaisie) pour augmenter encore son burst et sa capacité à assassiner les cibles prioritaires, rendant ses dives encore plus létaux.
+    *   **Synergie avec Yasuo :** Bien qu'il n'ait pas de knock-up direct, son rôle d'assassin permet de nettoyer la backline ennemie, laissant Yasuo se concentrer sur les menaces restantes ou suivre son propre engage.
+    *   **Forces :** Mobilité exceptionnelle grâce à "Voie du Traqueur" (E), burst dévastateur, capacité à pick-off les cibles isolées.
+
+*   **Conseils Stratégiques :** Cherchez les opportunités de gank en début de partie. Visez Teemo et Sylas en priorité. Utilisez votre mobilité pour contourner la vision et surprendre vos ennemis. Coordonnez-vous avec Lulu pour des engagements éclairs.
+
+---
+
+### 3. 🦅 Jarvan IV (ID: 59)
+
+*   **Statistiques Clés :**
+    *   WinRate Global: 51.44% (Très bon)
+    *   KDA Moyen: 5.71/5.16/12.02 (Bon KDA, avec beaucoup d'assistances)
+
+*   **Pourquoi le choisir ?**
+    *   **Synergie avec Yasuo :** C'est la synergie classique ! Le combo "Frappe du Dragon" (Q) + "Étendard Démacien" (E) de Jarvan IV offre un knock-up fiable et multi-cibles pour l'ultime de Yasuo. Son ultime "Cataclysme" (R) peut également emprisonner des cibles pour Yasuo.
+    *   **Synergie avec Lulu :** Lulu peut le soutenir avec ses boucliers et sa vitesse de déplacement, lui permettant de plonger profondément dans la mêlée et de survivre à son engage. Son ultime Wild Growth (R) peut également ajouter un knock-up supplémentaire dans la zone de Cataclysme.
+    *   **Matchups :** Bien que les matchups contre Sylas soient mitigés (5 victoires, 7 défaites), Jarvan IV apporte une utilité et un contrôle qui peuvent compenser. Sa capacité à engage et à tank est cruciale.
+    *   **Forces :** Excellent engageur, tanky, utilité de contrôle de foule pour l'équipe, peut initier des combats ou protéger ses carries.
+
+*   **Conseils Stratégiques :** Cherchez constamment à gank avec votre combo E+Q. Priorisez les ganks avec Yasuo pour maximiser le potentiel de son R. En teamfight, engagez sur les cibles prioritaires (Teemo, Sylas) et emprisonnez-les pour Yasuo.
+
+---
+
+### 4. 🥷 Master Yi (ID: 11)
+
+*   **Statistiques Clés :**
+    *   WinRate Global: 52.16% (Excellent, l'un des plus hauts)
+    *   KDA Moyen: 8.62/6.11/5.34 (Très bon KDA, axé sur les kills)
+
+*   **Pourquoi le choisir ?**
+    *   **Synergie avec Lulu :** C'est une synergie de "hyper-carry" de lane extrêmement puissante. Lulu peut transformer Master Yi en une machine à tuer imparable avec ses boucliers, sa vitesse d'attaque, sa vitesse de déplacement et son ultime qui lui donne des PV et un knock-up.
+    *   **Matchups :** Contre Sylas, il a un matchup équilibré (3 victoires, 3 défaites), mais avec le soutien de Lulu, son potentiel de carry est amplifié. Teemo est une cible facile à chasser pour Master Yi une fois qu'il a sa vitesse.
+    *   **Synergie avec Yasuo :** Yasuo et Master Yi sont deux champions qui peuvent carry la partie s'ils sont bien protégés. Yasuo peut nettoyer les cibles prioritaires tandis que Yi s'occupe du reste, ou inversement.
+    *   **Forces :** Excellent scaling, potentiel de carry incroyable en fin de partie, très bon pour nettoyer la jungle et prendre des objectifs.
+
+*   **Conseils Stratégiques :** Farm la jungle efficacement en début de partie. Évitez les combats inutiles tant que vous n'avez pas vos objets clés. Une fois que vous avez 1 ou 2 objets et que Lulu est à vos côtés, cherchez les opportunités de teamfight ou de pick-off. Concentrez-vous sur le nettoyage des objectifs neutres comme le Dragon et le Baron.
+
+---
+
+### 5. 🌬️ Qiyana (ID: 246)
+
+*   **Statistiques Clés :**
+    *   WinRate Global: 51.0% (Très bon)
+    *   KDA Moyen: 7.85/5.91/6.33 (Excellent KDA, très orienté kills)
+
+*   **Pourquoi le choisir ?**
+    *   **Matchups Favorables :** Qiyana est une excellente option contre Sylas, avec un très bon taux de victoire (6 victoires, 2 défaites) et des différences d'or et de dégâts très positives. Son kit de burst et de contrôle (stun/root) est idéal pour le neutraliser. Contre Teemo, sa capacité à se camoufler et à burst le rend très difficile à gérer.
+    *   **Synergie avec Lulu :** Lulu peut lui donner un bouclier et de la vitesse de déplacement, ce qui est très utile pour Qiyana qui aime plonger dans la mêlée pour burst ses cibles. Le polymorph de Lulu peut également aider à setup les combos de Qiyana ou à protéger son escape.
+    *   **Synergie avec Yasuo :** Qiyana peut fournir un knock-up avec son ultime (Fureur Élémentaire) si elle l'utilise contre un mur, ce qui peut setup l'ultime de Yasuo. C'est une synergie plus conditionnelle mais puissante.
+    *   **Forces :** Burst d'assassin très élevé, grande mobilité, capacité à contrôler la zone de combat avec son ultime.
+
+*   **Conseils Stratégiques :** Maîtrisez l'utilisation de vos éléments pour maximiser votre potentiel de dégâts et de contrôle. Cherchez à isoler Teemo ou Sylas et à les éliminer rapidement. En teamfight, essayez de setup un ultime contre un mur pour créer un effet boule de neige avec Yasuo.
+
+---
+
+Ces cinq champions offrent une combinaison de forte synergie avec votre équipe, de capacité à contrer les menaces ennemies, et de solides statistiques globales. La clé sera la coordination et l'exécution en jeu ! Bonne chance !
+
+================================================================================

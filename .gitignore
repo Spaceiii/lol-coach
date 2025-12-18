@@ -1,2 +1,3 @@
 .venv
 data/matchData.csv
+.env
