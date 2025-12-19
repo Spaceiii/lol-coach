@@ -104,7 +104,7 @@ Formatez la réponse de manière claire et structurée avec des émojis pour la 
     # Générer une réponse
     print("\n🔍 Analyse en cours...\n")
     response = client.models.generate_content(
-        model="gemini-2.5-flash",
+        model="gemini-2.0-flash",
         contents=query,
         config=types.GenerateContentConfig(
             system_instruction=context,
