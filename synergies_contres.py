@@ -3,8 +3,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
 import lightgbm as lgb
-from sklearn.model_selection import RandomizedSearchCV
-from scipy.stats import randint as sp_randint
 import time
 import warnings
 import numpy as np

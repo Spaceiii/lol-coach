@@ -3,3 +3,9 @@ pandas
 google-genai
 python-dotenv
 streamlit
+matplotlib
+seaborn
+lightgbm
+time
+warnings
+numpy
