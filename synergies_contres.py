@@ -13,8 +13,7 @@ warnings.filterwarnings('ignore', category=UserWarning)
 
 print("--- Démarrage de l'Entraînement des Modèles (Vectorisation Positionnelle) ---")
 
-# --- 1. Chargement et Définition des Données de Test (Même Code) ---
-# ... (Code de l'Étape 1 ici, il est correct) ...
+# --- 1. Chargement et Définition des Données de Test ---
 try:
     df = pd.read_csv('data/draftVectorized_Positional.csv')
     X = df.drop(columns=['Blue_Win'])
@@ -32,7 +31,6 @@ except FileNotFoundError:
     print("\nERREUR : Le fichier 'draftVectorized_Positional.csv' est introuvable. Arrêt du script.")
     exit()
 
-# --- NOUVEAU : Calcul des Poids d'Échantillon pour la LR ---
 print("\nÉtape 1.5/5 : Calcul des Poids d'Échantillon pour la Régression Logistique...")
 
 # 1. Calculer la fréquence d'apparition (count) pour chaque feature (Champion_Role)
@@ -43,7 +41,7 @@ feature_counts = X_train.abs().sum(axis=0)
 # L'idée est que les matchs avec des features courantes (haute fréquence) aient plus de poids.
 weights_train = X_train.apply(lambda row: np.sum(feature_counts[row.abs() == 1]), axis=1)
 
-# Normaliser les poids pour éviter une magnitude trop grande (optionnel mais recommandé)
+# Normaliser les poids pour éviter une magnitude trop grande
 weights_train = weights_train / weights_train.mean()
 
 print(f"   -> Poids d'échantillon calculés (Moyenne : {weights_train.mean():.2f})")

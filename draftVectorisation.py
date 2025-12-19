@@ -8,11 +8,11 @@ print("--- Démarrage du script de Vectorisation POSITIONNELLE ---")
 print("Étape 1/5 : Lecture du fichier matchData.csv...")
 start_time = time.time()
 try:
-    df_match = pd.read_csv('data/matchData_Filtered.csv')
+    df_match = pd.read_csv('data/matchData.csv')
     print(f"   -> {len(df_match)} lignes (matchs) lues avec succès.")
 except FileNotFoundError:
     print("Erreur : Assurez-vous que le fichier 'matchData.csv' est bien présent dans le dossier 'data/'")
-    exit()  # Arrête le script si le fichier n'est pas trouvé
+    exit()
 
 if not df_match.empty:
 
@@ -20,7 +20,6 @@ if not df_match.empty:
     print("\nÉtape 2/5 : Identification des combinaisons Champion_Rôle...")
 
     champion_cols = [f'participant{i}ChampionName' for i in range(10)]
-    # ASSUMPTION: We assume the role column is named 'participant{i}Role'. ADJUST IF NEEDED.
     role_cols = [f'participant{i}IndividualPosition' for i in range(10)]
 
     unique_features = set()
@@ -28,7 +27,7 @@ if not df_match.empty:
     # Itérer sur les 10 participants pour extraire toutes les combinaisons uniques Champion_Role
     for i in range(10):
         champ_name_col = f'participant{i}ChampionName'
-        role_col = f'participant{i}IndividualPosition'  # <<< VERIFIEZ CE NOM DE COLONNE
+        role_col = f'participant{i}IndividualPosition'
 
         if champ_name_col in df_match.columns and role_col in df_match.columns:
             # Créer une nouvelle colonne temporaire combinant ChampionName et Role
